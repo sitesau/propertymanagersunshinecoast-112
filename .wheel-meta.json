@@ -1,0 +1,22 @@
+{
+  "wheel_id": 868,
+  "structure": "umbrella",
+  "slug": "propertymanagersunshinecoast-112",
+  "project": "rental-management-sunshine-coast-budget-tips-476099384dd89aff0d",
+  "parent_t1_ref": "propertymanagersunshinecoast-155",
+  "node_role": "feeder",
+  "money_target": "propertymanagersunshinecoast.com.au",
+  "primary_kw": "rental management sunshine coast budget tips",
+  "intended_url": "https://sitesau.github.io/propertymanagersunshinecoast-112/",
+  "tier": "T2",
+  "writeback_nonce": "6f9ae730e5bc0dcc",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/rental-management-sunshine-coast-local-options-compared-ac000e4/",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
